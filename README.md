@@ -13,7 +13,7 @@ You can run and edit the algorithms, or contribute to them using Gitpod.io (a fr
 These implementations are intended for learning purposes. As such, they may be less efficient than the Java standard library
 
 ## Contribution Guideline.
-Please read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute to this project.
+Please read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute to this project
 
 ## Algorithms
 Our [directory](DIRECTORY.md) has the full list of applications
