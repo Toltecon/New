@@ -6,7 +6,7 @@ package com.thealgorithms.audiofilters;
  * Based on the difference equation from 
  * <a href="https://en.wikipedia.org/wiki/Infinite_impulse_response">Wikipedia link</a>
  */
-public class IIRFilter { 
+public class IIRFilter {  
 
     private final int order;
     private final double[] coeffsA;
