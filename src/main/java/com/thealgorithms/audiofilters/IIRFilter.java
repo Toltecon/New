@@ -1,7 +1,7 @@
 package com.thealgorithms.audiofilters;
 
 /**  
- * N-Order IIR Filter Assumes inputs are normalized to [-1, 1]
+ * N-Order IIR Filter Assumes inputs are normalized to [-1, 1] 
  *
  * Based on the difference equation from 
  * <a href="https://en.wikipedia.org/wiki/Infinite_impulse_response">Wikipedia link</a>
