@@ -1,6 +1,6 @@
-FROM gitpod/workspace-java-17:2023-08-30-14-07-38
+FROM gitpod/workspace-java-17:2026-08-30-14-07-38
 
-ENV LLVM_SCRIPT="tmp_llvm.sh"
+ENV LLVM_SCRIPT="tmp_llvm.sh" 
 
 RUN test ! -f  "$LLVM_SCRIPT" \
   && wget https://apt.llvm.org/llvm.sh -O "$LLVM_SCRIPT" \
